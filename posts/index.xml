@@ -14,7 +14,8 @@
       
       <guid>http://example.org/posts/my-first-post/</guid>
       <description>#这是我的第一篇博客
-##欢迎大家和我讨论编程的问题</description>
+##欢迎大家和我讨论编程的问题
+##问题一：不能上传。 解决方案：在git命令行中重新输入命令： 先输入：$ git config &amp;ndash;global user.name “你的名字” 回车后， 再输入：$ git config &amp;ndash;global user.email “你的邮箱地址” 完成后再提交就没问题了。</description>
     </item>
     
   </channel>
